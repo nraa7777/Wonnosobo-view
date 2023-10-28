@@ -242,7 +242,7 @@ header .hero h1 {
     }
 
     .about .box-about .box:nth-child(2) img {
-        width: 400px;
+        width: auto;
     }
 
     .famous {
@@ -280,10 +280,10 @@ header .hero h1 {
         font-size: 30px;
     }
     .about .box-about .box:nth-child(1) p {
-        font-size: px;
+        font-size: 20px;
     }
     .about .box-about .box:nth-child(2) img {
-        width: 300px;
+        width: auto;
         height: 200px;
     }
     .famous .box-famous .box img {
